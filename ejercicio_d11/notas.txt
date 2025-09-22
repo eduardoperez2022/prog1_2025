@@ -1,0 +1,11 @@
+The launcher has determined that the parent process has a console and will reuse it for its own console output.
+Closing the console will result in termination of the running program.
+Use '--console suppress' to suppress console output.
+Use '--console new' to create a separate console window.
+WARNING: package com.apple.eio not in java.desktop
+WARNING: package sun.awt.X11 not in java.desktop
+WARNING: package com.sun.java.swing.plaf.gtk not in java.desktop
+WARNING: A terminally deprecated method in java.lang.System has been called
+WARNING: System::setSecurityManager has been called by org.netbeans.TopSecurityManager (file:/C:/Program%20Files/NetBeans-17/netbeans/platform/lib/boot.jar)
+WARNING: Please consider reporting this to the maintainers of org.netbeans.TopSecurityManager
+WARNING: System::setSecurityManager will be removed in a future release
